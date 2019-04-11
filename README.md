@@ -2,7 +2,6 @@ Awsome Javascript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f
 ---
 
 Blogs
--------
 
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Node Weekly](http://nodeweekly.com/)
