@@ -3,6 +3,8 @@
 Awsome Javascript
 ---
 
+* [Blogs](#Blogs)
+
 Blogs
 ----
 
