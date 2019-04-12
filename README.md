@@ -4,7 +4,7 @@ Awsome Javascript
 ---
 
 * [Blogs](#Blogs)
-* [Code](##code-sharing)
+* [Code sharing](#code-sharing)
 
 Blogs
 ----
