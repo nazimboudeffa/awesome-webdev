@@ -7,18 +7,23 @@ Awsome Javascript
 
 Blogs
 ----
-
-- http://javascriptweekly.com
-- http://nodeweekly.com
-- http://html5weekly.com
-- http://www.echojs.com
-- http://dailyjs.com
-- http://devchat.tv/js-jabber
-- https://javascriptplayground.com/
-- https://davidwalsh.name/
-- https://www.sitepoint.com/javascript/
-- https://www.javascript.com/
-- https://brendaneich.com/
-- http://superherojs.com/
-- https://medium.com/the-javascript-collection
-- https://www.smashingmagazine.com/category/javascript
+- News
+  - http://javascriptweekly.com
+  - http://nodeweekly.com
+  - http://html5weekly.com
+  - http://www.echojs.com
+  - http://dailyjs.com
+  - http://devchat.tv/js-jabber
+  - https://javascriptplayground.com/
+  - http://superherojs.com/
+- Mags  
+  - https://www.smashingmagazine.com/category/javascript
+- Sites
+  - https://www.sitepoint.com/javascript/
+  - https://www.javascript.com/
+- Medium
+  - https://medium.com/the-javascript-collection
+- People
+  - https://brendaneich.com/
+  - http://braythwayt.com/
+  - https://davidwalsh.name/
