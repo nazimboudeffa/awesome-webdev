@@ -8,12 +8,12 @@ Awsome Javascript
 Blogs
 ----
 
-* [JavaScript Weekly](http://javascriptweekly.com/)
-* [Node Weekly](http://nodeweekly.com/)
-* [HTML5 Weekly](http://html5weekly.com/)
-* [EchoJS](http://www.echojs.com/)
-* [DailyJS](http://dailyjs.com/)
-* [JavaScript Jabber](http://devchat.tv/js-jabber/)
+* http://javascriptweekly.com
+* http://nodeweekly.com
+* http://html5weekly.com
+* http://www.echojs.com
+* http://dailyjs.com
+* http://devchat.tv/js-jabber
 * https://javascriptplayground.com/
 * https://davidwalsh.name/
 * https://www.sitepoint.com/javascript/
