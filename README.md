@@ -26,3 +26,9 @@ Blogs
   - https://brendaneich.com/
   - http://braythwayt.com/
   - https://davidwalsh.name/
+  
+Code sharing
+----
+- http://codepen.io/
+- http://jsfiddle.net/
+- https://jsbin.com
