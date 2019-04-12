@@ -8,21 +8,20 @@ Awsome Javascript
 Blogs
 ----
 - News
+  - https://www.javascript.com/
   - http://javascriptweekly.com
   - http://nodeweekly.com
   - http://html5weekly.com
-  - http://www.echojs.com
   - http://dailyjs.com
-  - http://devchat.tv/js-jabber
+  - http://www.echojs.com
   - https://javascriptplayground.com/
   - http://superherojs.com/
-- Mags  
-  - https://www.smashingmagazine.com/category/javascript
-- Sites
   - https://www.sitepoint.com/javascript/
-  - https://www.javascript.com/
+  - http://devchat.tv/js-jabber  
+  - https://www.smashingmagazine.com/category/javascript
 - Medium
   - https://medium.com/the-javascript-collection
+  - https://medium.freecodecamp.org/
 - People
   - https://brendaneich.com/
   - http://braythwayt.com/
