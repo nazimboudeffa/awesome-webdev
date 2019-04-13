@@ -33,3 +33,10 @@ Code sharing
 - http://codepen.io/
 - http://jsfiddle.net/
 - https://jsbin.com
+
+Learn
+----
+- http://w3schools.com/
+- https://developer.mozilla.org
+- http://freecodecamp.org/
+- http://codeacademy.com/
