@@ -5,6 +5,7 @@ Awsome Javascript
 
 * [Blogs](#Blogs)
 * [Code sharing](#code-sharing)
+* [Learn](#learn)
 
 Blogs
 ----
