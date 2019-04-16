@@ -26,6 +26,7 @@ Blogs
   - https://medium.freecodecamp.org/
 - People
   - https://brendaneich.com/
+  - https://me.getify.com/ Kyle Simpson
   - http://braythwayt.com/
   - https://davidwalsh.name/
   
