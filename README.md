@@ -39,7 +39,7 @@ Code sharing
 
 Learn
 ----
-- http://w3schools.com/
+- http://w3schools.com/ what I use the most
 - https://developer.mozilla.org
 - http://freecodecamp.org/ best community
 - http://codeacademy.com/
