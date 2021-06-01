@@ -43,3 +43,8 @@ Learn
 - https://developer.mozilla.org
 - http://freecodecamp.org/
 - http://codeacademy.com/
+
+Practice
+----
+- https://www.codewars.com/
+- https://www.codingame.com/
