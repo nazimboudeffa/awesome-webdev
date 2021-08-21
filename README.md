@@ -48,3 +48,7 @@ Practice
 ----
 - https://www.codewars.com/
 - https://www.codingame.com/
+
+Cheat Sheets
+----
+- https://github.com/iLoveCodingOrg/javascript-cheatsheet
