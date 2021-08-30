@@ -43,6 +43,7 @@ Learn
 - https://developer.mozilla.org
 - http://freecodecamp.org/ best community
 - http://codeacademy.com/
+- https://flexboxfroggy.com/ Play with flexbox
 
 Practice
 ----
