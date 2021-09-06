@@ -57,3 +57,7 @@ Road Maps
 Cheat Sheets
 ----
 - https://github.com/iLoveCodingOrg/javascript-cheatsheet
+
+Others
+----
+- https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners
