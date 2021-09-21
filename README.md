@@ -29,6 +29,7 @@ Blogs
   - https://me.getify.com/ Kyle Simpson
   - http://braythwayt.com/
   - https://davidwalsh.name/
+  - https://flaviocopes.com/
   
 Code sharing
 ----
