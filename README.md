@@ -27,8 +27,9 @@ Blogs
 - People
   - https://brendaneich.com/
   - https://me.getify.com/ Kyle Simpson
-  - http://braythwayt.com/
+  - http://braythwayt.com/ aussi http://raganwald.com/
   - https://davidwalsh.name/
+  - https://www.emanueleferonato.com/
   - https://flaviocopes.com/
   
 Code sharing
