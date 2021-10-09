@@ -51,6 +51,7 @@ Practice
 ----
 - https://www.codewars.com/
 - https://www.codingame.com/
+- https://binarysearch.com/
 
 Road Maps
 ----
