@@ -46,6 +46,7 @@ Learn
 - http://freecodecamp.org/ best community
 - http://codeacademy.com/
 - https://flexboxfroggy.com/ Play with flexbox
+- https://www.theodinproject.com/
 
 Practice
 ----
