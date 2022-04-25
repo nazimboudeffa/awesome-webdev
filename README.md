@@ -48,6 +48,7 @@ Learn
 - https://flexboxfroggy.com/ Play with flexbox
 - https://www.theodinproject.com/
 - https://htmldog.com/
+- http://www.csszengarden.com/
 
 Practice
 ----
