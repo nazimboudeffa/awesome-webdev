@@ -75,7 +75,6 @@ Practice
 - https://adventofcode.com/
 - https://github.com/NotANameServer/challenges
 - CSS
-  - https://flexboxfroggy.com/
   - https://cssbattle.dev/
 
 Road Maps
