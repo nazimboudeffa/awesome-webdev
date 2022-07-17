@@ -50,6 +50,16 @@ Learn
 - https://htmldog.com/
 - http://www.csszengarden.com/
 - https://github.com/mezzoblue/csszengarden.com
+- https://fullstackopen.com/
+
+Learn in FRENCH
+---
+
+- ONLINE
+  - http://openclassroom.com/
+  - https://grafikart.fr/
+- PRESENCE
+  - https://www.lewagon.com/
 
 Practice
 ----
