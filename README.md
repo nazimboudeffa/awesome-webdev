@@ -58,6 +58,7 @@ Learn in FRENCH
 - ONLINE
   - http://openclassroom.com/
   - https://grafikart.fr/
+  - https://hardcode.rs/
 - PRESENCE
   - https://www.lewagon.com/
 
