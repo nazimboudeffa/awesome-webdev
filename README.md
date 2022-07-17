@@ -39,7 +39,7 @@ Code sharing
 - https://jsbin.com
 - https://codesandbox.io
 
-Learn
+Learn WebDev
 ----
 - http://w3schools.com/ what I use the most
 - https://developer.mozilla.org
@@ -61,6 +61,11 @@ Learn in FRENCH
   - https://hardcode.rs/
 - PRESENCE
   - https://www.lewagon.com/
+  
+Learn VUE
+---
+- https://vueschool.io/
+- https://www.vuemastery.com/
 
 Practice
 ----
