@@ -51,6 +51,8 @@ Learn WebDev
 - http://www.csszengarden.com/
 - https://github.com/mezzoblue/csszengarden.com
 - https://fullstackopen.com/
+- https://netninja.dev/
+- https://egghead.io/
 
 Learn in FRENCH
 ---
