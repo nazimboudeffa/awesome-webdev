@@ -86,6 +86,7 @@ PHP
 Cetifications
 ---
 - https://training.linuxfoundation.org/
+- https://acloudguru.com/
 
 Road Maps
 ----
