@@ -54,6 +54,10 @@ Learn WebDev
 - https://netninja.dev/
 - https://egghead.io/
 
+PHP
+---
+- https://symfonycasts.com/
+
 Learn in FRENCH
 ---
 
