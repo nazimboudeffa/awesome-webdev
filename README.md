@@ -54,10 +54,6 @@ Learn WebDev
 - https://netninja.dev/
 - https://egghead.io/
 
-PHP
----
-- https://symfonycasts.com/
-
 Learn in FRENCH
 ---
 
@@ -82,6 +78,14 @@ Practice
 - https://github.com/NotANameServer/challenges
 - CSS
   - https://cssbattle.dev/
+
+PHP
+---
+- https://symfonycasts.com/
+
+Cetifications
+---
+- https://training.linuxfoundation.org/
 
 Road Maps
 ----
