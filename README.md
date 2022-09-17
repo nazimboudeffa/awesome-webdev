@@ -5,7 +5,7 @@ Awsome Webdev
 
 * [Blogs](#Blogs)
 * [Code sharing](#code-sharing)
-* [Learn](#learn)
+* [Learn](#learn-webdev)
 * [Certifications](#cetifications)
 
 Blogs about Javascript
