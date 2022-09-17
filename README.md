@@ -3,7 +3,7 @@
 Awsome Webdev
 ---
 
-* [Blogs](#Blogs)
+* [Blogs](#blogs-about-javascript)
 * [Code sharing](#code-sharing)
 * [Learn](#learn-webdev)
 * [Certifications](#cetifications)
