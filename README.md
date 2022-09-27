@@ -105,3 +105,9 @@ Others
 - https://github.com/trekhleb/javascript-algorithms
 - https://www.makeareadme.com/
 - https://www.lucidchart.com/
+
+business
+---
+
+- https://flippa.com/
+- https://sedo.com/fr/
