@@ -32,7 +32,12 @@ Blogs about Javascript
   - https://davidwalsh.name/
   - https://www.emanueleferonato.com/
   - https://flaviocopes.com/
-  
+
+General Blogs
+---
+- https://www.welcometothejungle.com/
+- https://www.maddyness.com/
+
 Code sharing
 ----
 - http://codepen.io/
