@@ -34,11 +34,6 @@ Blogs about Javascript
   - https://www.emanueleferonato.com/
   - https://flaviocopes.com/
 
-General Blogs
----
-- https://www.welcometothejungle.com/
-- https://www.maddyness.com/
-
 Code sharing
 ----
 - http://codepen.io/
@@ -111,6 +106,11 @@ Others
 - https://github.com/trekhleb/javascript-algorithms
 - https://www.makeareadme.com/
 - https://www.lucidchart.com/
+
+Business Blogs
+---
+- https://www.welcometothejungle.com/
+- https://www.maddyness.com/
 
 business
 ---
