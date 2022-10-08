@@ -117,5 +117,5 @@ business
 
 - https://flippa.com/ vendre site
 - https://sedo.com/fr/ vendre domaine
-- https://www.crowdcube.com/ levées de fonds
+- https://www.crowdclub.com/ levées de fonds
 - https://blast.club/ levées de fonds
