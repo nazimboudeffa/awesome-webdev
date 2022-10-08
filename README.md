@@ -130,5 +130,5 @@ dropshipping and products
 ---
 
 - https://www.stockly.ai/ leave it just here atm
-- https://dropix.io starter price at 29€
+- https://dropix.io starter price at 29€/mo 200 products
 - https://bdroppy.com/ starter price at 99€
