@@ -121,7 +121,14 @@ business
 - https://blast.club/ levées de fonds
 - https://www.tudigo.co/ investissement solidaire, diffèrent des autres ?
 
-e-commerce
+marketplaces
 ---
 
-- https://www.stockly.ai/
+- https://codecanyon.net/item/zcart-multivendor-ecommerce-platform/22751042 the one we started to use
+
+dropshipping and products
+---
+
+- https://www.stockly.ai/ leave it just here atm
+- https://dropix.io starter price at 29€
+- https://bdroppy.com/ starter price at 99€
