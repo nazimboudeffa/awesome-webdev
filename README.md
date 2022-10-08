@@ -7,6 +7,7 @@ Awsome Webdev
 * [Code sharing](#code-sharing)
 * [Learn](#learn-webdev)
 * [Certifications](#cetifications)
+* Business
 
 Blogs about Javascript
 ----
@@ -114,5 +115,7 @@ Others
 business
 ---
 
-- https://flippa.com/
-- https://sedo.com/fr/
+- https://flippa.com/ vendre site
+- https://sedo.com/fr/ vendre domaine
+- https://www.crowdcube.com/ levées de fonds
+- https://blast.club/ levées de fonds
