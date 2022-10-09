@@ -111,6 +111,7 @@ Business Blogs
 ---
 - https://www.welcometothejungle.com/
 - https://www.maddyness.com/
+  - https://www.maddyness.com/2021/11/29/100-outils-pour-lancer-sa-startup-sans-developpeur-ni-graphiste-et-presque-sans-argent
 
 business
 ---
