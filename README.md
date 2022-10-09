@@ -115,7 +115,8 @@ Business Blogs
 business
 ---
 
-- https://flippa.com/ vendre site
+- https://flippa.com/ vente de sites
+- https://www.dotmarket.eu/ vente de sites
 - https://sedo.com/fr/ vendre domaine
 - https://www.crowdcube.com/ levées de fonds
 - https://blast.club/ levées de fonds
