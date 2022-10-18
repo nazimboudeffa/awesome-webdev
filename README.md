@@ -107,6 +107,10 @@ Others
 - https://www.makeareadme.com/
 - https://www.lucidchart.com/
 
+Free domain name
+----
+- https://www.freenom.com/fr/index.html
+
 Business Blogs
 ---
 - https://www.welcometothejungle.com/
