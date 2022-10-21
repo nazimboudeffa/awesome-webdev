@@ -41,6 +41,12 @@ ORM
 - https://sequelize.org/
 - https://www.prisma.io/
 
+HOSTING
+---
+
+- https://www.netlify.com/
+- https://railway.app/
+
 Code sharing
 ----
 - http://codepen.io/
