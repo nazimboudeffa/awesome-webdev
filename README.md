@@ -41,6 +41,8 @@ ORM
 - https://sequelize.org/
 - https://www.prisma.io/
 
+- https://planetscale.com/
+
 HOSTING
 ---
 
