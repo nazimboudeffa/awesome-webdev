@@ -34,6 +34,13 @@ Blogs about Javascript
   - https://www.emanueleferonato.com/
   - https://flaviocopes.com/
 
+ORM
+---
+
+- https://mongoosejs.com/
+- https://sequelize.org/
+- https://www.prisma.io/
+
 Code sharing
 ----
 - http://codepen.io/
