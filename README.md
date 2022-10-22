@@ -81,6 +81,11 @@ Learn in FRENCH
 - PRESENCE
   - https://www.lewagon.com/
   
+CSS
+---
+
+- https://www.tailwindawesome.com/
+  
 Learn VUE
 ---
 - https://vueschool.io/
