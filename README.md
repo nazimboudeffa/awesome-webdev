@@ -85,6 +85,7 @@ CSS
 ---
 
 - https://www.tailwindawesome.com/
+- https://mantine.dev/
   
 Learn VUE
 ---
