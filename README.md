@@ -127,6 +127,7 @@ Others
 - https://github.com/trekhleb/javascript-algorithms
 - https://www.makeareadme.com/
 - https://www.lucidchart.com/
+- https://animista.net/
 
 Free domain name
 ----
