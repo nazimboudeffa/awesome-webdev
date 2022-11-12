@@ -89,6 +89,11 @@ CSS
 - https://uiverse.io/
 - https://www.uneed.best/
 
+Design
+---
+
+- https://uxcel.com/
+
 Learn VUE
 ---
 - https://vueschool.io/
