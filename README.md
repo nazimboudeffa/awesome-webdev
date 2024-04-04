@@ -48,6 +48,7 @@ HOSTING
 
 - https://www.netlify.com/
 - https://railway.app/
+- https://vercel.com/
 
 Code sharing
 ----
