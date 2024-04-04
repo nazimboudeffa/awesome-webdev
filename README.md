@@ -40,7 +40,7 @@ ORM
 - https://mongoosejs.com/
 - https://sequelize.org/
 - https://www.prisma.io/
-
+- https://typeorm.io/
 - https://planetscale.com/
 
 HOSTING
